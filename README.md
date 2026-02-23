@@ -1,6 +1,6 @@
 # 🛡️ AWS Sentinel: Remediación Automática de Red
 
-Este proyecto implementa una solución de **DevSecOps** para mitigar riesgos de seguridad en tiempo real dentro de una infraestructura AWS.
+Este proyecto implementa una solución para mitigar riesgos de seguridad en tiempo real dentro de una infraestructura AWS.
 
 ## 📋 Arquitectura
 - **EventBridge**: Disparador programado (cada 5 min).
